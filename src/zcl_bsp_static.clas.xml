@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_BSP_STATIC</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>R</LANGU>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <MSG_ID>ZSRM_BSP</MSG_ID>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BSP_STATIC</CLSNAME>
+     <CMPNAME>FILE_DOWNLOAD</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Âûãðóçêà ôàéëà</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BSP_STATIC</CLSNAME>
+     <CMPNAME>FORBIDDEN</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Çàïðåò äîñòóïà</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BSP_STATIC</CLSNAME>
+     <CMPNAME>GET_PARAMETER</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷åíèå ïàðàìåòðà URL</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BSP_STATIC</CLSNAME>
+     <CMPNAME>GET_URL</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷èòü URL</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
